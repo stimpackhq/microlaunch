@@ -3,7 +3,7 @@
 [![GitHub license](https://img.shields.io/github/license/yourusername/microlaunch)](https://github.com/yourusername/microlaunch/blob/main/LICENSE)
 [![GitHub stars](https://img.shields.io/github/stars/yourusername/microlaunch)](https://github.com/yourusername/microlaunch/stargazers)
 
-The [Microlaunch](microlaunch.net) official repository
+The [Microlaunch](https://microlaunch.net) official repository
 
 ## Description
 
@@ -37,3 +37,9 @@ cd microlaunch
 
 # Install dependencies
 npm install
+```
+
+
+## Premium
+
+Please check premium packs on [Microlaunch Premium](https://microlaunch.net/premium) website.
